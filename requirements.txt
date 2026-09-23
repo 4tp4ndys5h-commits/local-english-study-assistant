@@ -1,0 +1,6 @@
+torch
+transformers
+accelerate
+streamlit
+pytest
+psutil
