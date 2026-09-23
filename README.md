@@ -68,7 +68,7 @@ ai-assessment1/
 ### 1. Clone the Repository
 
 ```powershell
-git clone [YOUR_GITHUB_REPOSITORY_URL]
+git clone [https://github.com/4tp4ndys5h-commits/local-english-study-assistant.git]
 cd ai-assessment1
 ```
 
